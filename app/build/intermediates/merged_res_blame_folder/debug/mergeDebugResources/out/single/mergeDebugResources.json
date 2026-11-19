@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/raw_spac_os_boot.m4v.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/raw/spac_os_boot.m4v"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/layout_item_category.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/drawable_search_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/drawable_category_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/drawable/category_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/drawable_ic_launcher_banner.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/drawable/ic_launcher_banner.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/layout_item_app_grid.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/layout/item_app_grid.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/layout_activity_splash.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-36:/drawable/ic_launcher_foreground.xml"
+    }
+]

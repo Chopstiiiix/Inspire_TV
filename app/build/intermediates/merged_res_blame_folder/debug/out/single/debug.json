@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/drawable_search_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/drawable_ic_launcher_banner.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/drawable/ic_launcher_banner.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/layout_item_category.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/drawable_category_background.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/drawable/category_background.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/layout_item_app_grid.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/layout/item_app_grid.xml"
+    },
+    {
+        "merged": "com.inspireedge.tvlauncher.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.inspireedge.tvlauncher.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

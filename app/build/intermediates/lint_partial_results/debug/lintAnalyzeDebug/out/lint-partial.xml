@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.0.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.inspireedge.tvlauncher.SplashActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.accent"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="6"
+            column="12"
+            startOffset="201"
+            endLine="6"
+            endColumn="25"
+            endOffset="214"/>
+        <location id="R.color.black"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="12"
+            column="12"
+            startOffset="475"
+            endLine="12"
+            endColumn="24"
+            endOffset="487"/>
+        <location id="R.color.primary"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="4"
+            column="12"
+            startOffset="112"
+            endLine="4"
+            endColumn="26"
+            endOffset="126"/>
+        <location id="R.color.primary_dark"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="5"
+            column="12"
+            startOffset="154"
+            endLine="5"
+            endColumn="31"
+            endOffset="173"/>
+        <location id="R.color.white"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="11"
+            column="12"
+            startOffset="435"
+            endLine="11"
+            endColumn="24"
+            endOffset="447"/>
+        <location id="R.drawable.ic_launcher_background"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_background.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="6"
+            endColumn="9"
+            endOffset="218"/>
+        <location id="R.drawable.ic_launcher_banner"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_banner.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="6"
+            endColumn="9"
+            endOffset="239"/>
+        <location id="R.drawable.ic_launcher_foreground"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_foreground.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="9"
+            endOffset="176"/>
+        <location id="R.mipmap.ic_launcher"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi-v26/ic_launcher.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="17"
+            endOffset="270"/>
+        <entry
+            name="model"
+            string="attr[selectableItemBackground(R)],color[background_dark(U),text_primary(U),text_secondary(U),card_background(U),primary(D),primary_dark(D),accent(D),accent_color(U),white(D),black(D)],drawable[category_background(U),ic_launcher_background(D),ic_launcher_banner(D),ic_launcher_foreground(D),search_background(U)],id[searchView(U),categoryTabs(U),searchResults(U),recyclerView(U),videoView(U),appIcon(U),appName(U),categoryName(U)],layout[activity_main(U),activity_splash(U),item_app_grid(U),item_category(U)],mipmap[ic_launcher(D)],raw[spac_os_boot(U)],string[app_name(U),app_icon(U)],style[Theme_InspireTV(U),Theme_MaterialComponents_DayNight_NoActionBar(R)];18^1^2^f^3,1a^0^4^1f^2,1b^b^3,1c^c^e,20^21^1^8^2;;;"/>
+    </map>
+
+</incidents>

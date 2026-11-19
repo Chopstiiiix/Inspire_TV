@@ -1,0 +1,2 @@
+/Users/maclcolmolagundoye/Desktop/TV Accessory/app/lint-baseline.xml: Hint: 1 error and 32 warnings were filtered out because they are listed in the baseline file, lint-baseline.xml [LintBaseline]
+No errors or warnings (and 1 error, 32 warnings filtered by baseline lint-baseline.xml)

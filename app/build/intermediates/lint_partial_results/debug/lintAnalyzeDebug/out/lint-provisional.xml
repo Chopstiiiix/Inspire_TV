@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.0.0" type="conditional_incidents">
+
+    <incident
+        id="GestureBackNavigation"
+        severity="warning"
+        message="If intercepting back events, this should be handled through the registration of callbacks; see https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture">
+        <show-url
+            description="Show https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture"
+            url="https://developer.android.com/guide/navigation/custom-back/predictive-back-gesture"/>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/inspireedge/tvlauncher/MainActivity.kt"
+            line="259"
+            column="13"
+            startOffset="8684"
+            endLine="259"
+            endColumn="34"
+            endOffset="8705"/>
+    </incident>
+
+    <incident
+        id="CustomSplashScreen"
+        severity="warning"
+        message="The application should not provide its own launch screen">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/inspireedge/tvlauncher/SplashActivity.kt"
+            line="13"
+            column="7"
+            startOffset="310"
+            endLine="13"
+            endColumn="21"
+            endOffset="324"/>
+        <map>
+            <condition targetGE="31"/>
+        </map>
+    </incident>
+
+    <incident
+        id="QueryPermissionsNeeded"
+        severity="warning"
+        message="Consider adding a `&lt;queries>` declaration to your manifest when calling this method; see https://g.co/dev/packagevisibility for details">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/inspireedge/tvlauncher/util/AppUtils.kt"
+            line="16"
+            column="35"
+            startOffset="501"
+            endLine="16"
+            endColumn="56"
+            endOffset="522"/>
+        <map>
+            <entry
+                name="queryAll"
+                boolean="false"/>
+        </map>
+    </incident>
+
+    <incident
+        id="QueryPermissionsNeeded"
+        severity="warning"
+        message="Consider adding a `&lt;queries>` declaration to your manifest when calling this method; see https://g.co/dev/packagevisibility for details">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/inspireedge/tvlauncher/util/AppUtils.kt"
+            line="46"
+            column="31"
+            startOffset="1613"
+            endLine="46"
+            endColumn="52"
+            endOffset="1634"/>
+        <map>
+            <entry
+                name="queryAll"
+                boolean="false"/>
+        </map>
+    </incident>
+
+    <incident
+        id="QueryPermissionsNeeded"
+        severity="warning"
+        message="Consider adding a `&lt;queries>` declaration to your manifest when calling this method; see https://g.co/dev/packagevisibility for details">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/inspireedge/tvlauncher/MainActivity.kt"
+            line="100"
+            column="35"
+            startOffset="3564"
+            endLine="100"
+            endColumn="56"
+            endOffset="3585"/>
+        <map>
+            <entry
+                name="queryAll"
+                boolean="false"/>
+        </map>
+    </incident>
+
+</incidents>

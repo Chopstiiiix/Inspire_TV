@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color accent_color
+color background_dark
+color black
+color primary
+color primary_dark
+color text_primary
+color white
+drawable ic_launcher_background
+drawable ic_launcher_banner
+drawable ic_launcher_foreground
+id appIcon
+id appName
+id categoryName
+id categoryTabs
+id recyclerView
+id searchResults
+id searchView
+layout activity_main
+layout item_app_grid
+layout item_category
+mipmap ic_launcher
+string app_name
+style Theme.InspireTV

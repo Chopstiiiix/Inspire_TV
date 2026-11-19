@@ -1,0 +1,38 @@
+com.inspireedge.tvlauncher.app-coordinatorlayout-1.1.0-0 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/035348ec9a5aea1855ba1eca61f6bd9b/transformed/coordinatorlayout-1.1.0/res
+com.inspireedge.tvlauncher.app-drawerlayout-1.1.1-1 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/0b9e24625926260082a5e83a77f2d0c2/transformed/drawerlayout-1.1.1/res
+com.inspireedge.tvlauncher.app-core-1.9.0-2 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/2311715e37a615f0bf2b28baf5eba184/transformed/core-1.9.0/res
+com.inspireedge.tvlauncher.app-lifecycle-livedata-core-ktx-2.7.0-3 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/2a4ff27b223bf6a2a336fa6c48a37dee/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.inspireedge.tvlauncher.app-constraintlayout-2.1.4-4 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/34ebdfbf9283745e14d547441f2add00/transformed/constraintlayout-2.1.4/res
+com.inspireedge.tvlauncher.app-recyclerview-1.3.2-5 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/40218d5794d0d1ea6b063b1de309a4f1/transformed/recyclerview-1.3.2/res
+com.inspireedge.tvlauncher.app-lifecycle-viewmodel-2.7.0-6 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/405717b3df0a8c96810ed99df05ce1e7/transformed/lifecycle-viewmodel-2.7.0/res
+com.inspireedge.tvlauncher.app-core-ktx-1.9.0-7 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/4234b1ec3086fc6b490643c66df34af7/transformed/core-ktx-1.9.0/res
+com.inspireedge.tvlauncher.app-lifecycle-viewmodel-ktx-2.7.0-8 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/4752e8e5e4530094808905a70e2bffe9/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.inspireedge.tvlauncher.app-transition-1.2.0-9 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/4fc9d7d421629be850bbc7b42d1e21af/transformed/transition-1.2.0/res
+com.inspireedge.tvlauncher.app-emoji2-1.2.0-10 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/51aa76bbe2305a9c9a931518314c22bf/transformed/emoji2-1.2.0/res
+com.inspireedge.tvlauncher.app-activity-1.8.0-11 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/5871cc11a79e8487bbc44e94a4e5d9c8/transformed/activity-1.8.0/res
+com.inspireedge.tvlauncher.app-viewpager2-1.1.0-beta02-12 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/63b16e15bbb13bb46a662b2db1bf142f/transformed/viewpager2-1.1.0-beta02/res
+com.inspireedge.tvlauncher.app-startup-runtime-1.1.1-13 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/77b34a2f1b74f42f9e75032beb077547/transformed/startup-runtime-1.1.1/res
+com.inspireedge.tvlauncher.app-lifecycle-runtime-ktx-2.7.0-14 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/82e493dd62e661a4279fdf3ddc51574c/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.inspireedge.tvlauncher.app-lifecycle-process-2.7.0-15 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/84953e1b9bbb973cc1307b28e5461714/transformed/lifecycle-process-2.7.0/res
+com.inspireedge.tvlauncher.app-profileinstaller-1.3.0-16 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/858242df5fd9c7bedbfc0edff422f47c/transformed/profileinstaller-1.3.0/res
+com.inspireedge.tvlauncher.app-appcompat-1.6.1-17 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/86f464307101e2c40b8b864fe37f8183/transformed/appcompat-1.6.1/res
+com.inspireedge.tvlauncher.app-lifecycle-livedata-core-2.7.0-18 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/89348463eb3158ef30c05a59f4250843/transformed/lifecycle-livedata-core-2.7.0/res
+com.inspireedge.tvlauncher.app-emoji2-views-helper-1.2.0-19 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/9c4755b0409620c77b4c92cb796db21b/transformed/emoji2-views-helper-1.2.0/res
+com.inspireedge.tvlauncher.app-savedstate-1.2.1-20 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/b0f8a22524164bb724e113d19a979802/transformed/savedstate-1.2.1/res
+com.inspireedge.tvlauncher.app-material-1.11.0-21 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/b54b5eb44012edd77dfc2eb45295aa9b/transformed/material-1.11.0/res
+com.inspireedge.tvlauncher.app-customview-poolingcontainer-1.0.0-22 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/bcf98011a44b1e85c88fd0781bc189a7/transformed/customview-poolingcontainer-1.0.0/res
+com.inspireedge.tvlauncher.app-core-runtime-2.2.0-23 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/be3f3d7604cfec570d3600a43c5ef47c/transformed/core-runtime-2.2.0/res
+com.inspireedge.tvlauncher.app-lifecycle-livedata-2.7.0-24 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/c79ed1015c088450c3030a2bdcefa884/transformed/lifecycle-livedata-2.7.0/res
+com.inspireedge.tvlauncher.app-lifecycle-runtime-2.7.0-25 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/cbecc8e51b26543d44888db3ac6553e9/transformed/lifecycle-runtime-2.7.0/res
+com.inspireedge.tvlauncher.app-fragment-1.3.6-26 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/cecb486755909759eae10025d5b59a9d/transformed/fragment-1.3.6/res
+com.inspireedge.tvlauncher.app-annotation-experimental-1.3.0-27 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/d0953520795f61d38cced5bf702b6ce0/transformed/annotation-experimental-1.3.0/res
+com.inspireedge.tvlauncher.app-cardview-1.0.0-28 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/deec88bad3b53967d4d72be589d75da1/transformed/cardview-1.0.0/res
+com.inspireedge.tvlauncher.app-lifecycle-viewmodel-savedstate-2.7.0-29 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/f56daeb0d166343d3cc2a2c87810ccf6/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.inspireedge.tvlauncher.app-appcompat-resources-1.6.1-30 /Users/maclcolmolagundoye/.gradle/caches/transforms-3/fe9ca01f14afea759d4b891e827a1c19/transformed/appcompat-resources-1.6.1/res
+com.inspireedge.tvlauncher.app-pngs-31 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/build/generated/res/pngs/release
+com.inspireedge.tvlauncher.app-resValues-32 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/build/generated/res/resValues/release
+com.inspireedge.tvlauncher.app-packageReleaseResources-33 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.inspireedge.tvlauncher.app-packageReleaseResources-34 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.inspireedge.tvlauncher.app-merged_res-35 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/build/intermediates/merged_res/release
+com.inspireedge.tvlauncher.app-main-36 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/src/main/res
+com.inspireedge.tvlauncher.app-release-37 /Users/maclcolmolagundoye/Desktop/TV Accessory/app/src/release/res
